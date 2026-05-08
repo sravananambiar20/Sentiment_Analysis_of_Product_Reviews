@@ -13,6 +13,10 @@ Classify reviews into:
 ## Dataset
 Amazon Fine Food Reviews
 
+Download dataset from:
+
+[https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
+
 ## Technologies
 - Python
 - Scikit-learn
