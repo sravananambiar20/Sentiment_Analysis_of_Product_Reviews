@@ -9,6 +9,8 @@ Classify reviews into:
 ## Models Used
 - TF-IDF + SVM
 - DistilBERT
+- BERT
+- TF-IDF + LOGISTIC REGRESSION
 
 ## Dataset
 Amazon Fine Food Reviews
