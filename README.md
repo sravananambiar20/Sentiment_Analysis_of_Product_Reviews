@@ -122,12 +122,30 @@ Models were evaluated using:
 | DistilBERT | 84.50% |
 | BERT | 83.70% |
 
-##f1 score
+## Results & Comparison
 
-TBD → 0.81 (SVM)
-TBD → 0.81 (LR)
-TBD → 0.82 (DistilBERT)
-TBD → 0.79 (BERT)
+| Model | Accuracy | F1-Score |
+| --- | --- | --- |
+| TF-IDF + SVM | 83.97% | 0.81 |
+| TF-IDF + Logistic Regression | 84.15% | 0.81 |
+| DistilBERT | 84.50% | 0.82 |
+| BERT | 83.70% | 0.79 |
+
+**Best Model: DistilBERT with 84.50% accuracy and F1-score of 0.82** 🏆
+
+---
+
+## Model Performance Summary
+
+### TF-IDF + SVM
+1. **Accuracy:** 83.97%
+2. **F1-Score:** 0.81
+3. **Strengths:** Fast training, works well with high-dimensional sparse text features.
+
+### TF-IDF + Logistic Regression
+1. **Accuracy:** 84.15%
+2. **F1-Score:** 0.81
+3. **Strengths:** Highly interpretable, stro
 
 > ⚠️ Results to be updated after model training is complete.
 
