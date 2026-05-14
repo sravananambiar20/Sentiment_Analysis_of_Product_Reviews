@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+.env
+
+# Dataset files (too large for GitHub)
+*.csv
+*.tsv
+*.json
+Data/*.csv
+Data/*.tsv
+
+# Model files (large binaries — store separately if needed)
+# Uncomment below if models are too large:
+# *.pkl
+# *.pt
+# *.h5
+# *.bin
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# HuggingFace cache
+.cache/
+transformers_cache/
