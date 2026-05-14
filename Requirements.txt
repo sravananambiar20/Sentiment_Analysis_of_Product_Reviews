@@ -1,7 +1,10 @@
+streamlit
 torch
 transformers
 scikit-learn
-pickle5
-datasets
 numpy
 pandas
+matplotlib
+seaborn
+pickle5
+datasets
