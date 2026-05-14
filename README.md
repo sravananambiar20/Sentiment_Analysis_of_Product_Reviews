@@ -5,7 +5,7 @@
 | Name | Reg No |
 | --- | --- |
 | Ardra Selin A G | 253006 |
-| Sravana Nambiar | XXXXXX |
+| Sravana Nambiar |  |253212|
 | Archana T | 253205 |
 
 ---
@@ -117,10 +117,17 @@ Models were evaluated using:
 
 | Model | Accuracy |
 | --- | --- |
-| TF-IDF + SVM | XX.XX% |
-| TF-IDF + Logistic Regression | XX.XX% |
-| DistilBERT | XX.XX% |
-| BERT | XX.XX% |
+| TF-IDF + SVM | 83.97% |
+| TF-IDF + Logistic Regression | 84.15% |
+| DistilBERT | 84.50% |
+| BERT | 83.70% |
+
+##f1 score
+
+TBD → 0.81 (SVM)
+TBD → 0.81 (LR)
+TBD → 0.82 (DistilBERT)
+TBD → 0.79 (BERT)
 
 > ⚠️ Results to be updated after model training is complete.
 
