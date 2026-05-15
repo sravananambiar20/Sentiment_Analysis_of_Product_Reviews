@@ -222,19 +222,21 @@ Sentiment_Analysis_of_Product_Reviews/
 ## Application Screenshots
 
 ### Home Page
-![Home Page] home_page.png
+![Home Page](homepage.png)
 
 ### Single Review Prediction
-![Single Review Prediction] single_review_prediction.png
+![Single Review Prediction](single_review_prediction.png)
 
 ### Model Performance
-![Model Performance] model_performance.png
+
+![Model Performance](model_performance.png)
 
 ### Metrics Summary
-![Metrics Summary] summary.png 
+![Metrics Summary](summary.png) 
 
 ### About Page
-![About Page] about_the_app.png
+
+![About Page](about_the_app.png)
 
 
 ## Live Application
