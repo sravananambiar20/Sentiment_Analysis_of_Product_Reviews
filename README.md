@@ -222,7 +222,7 @@ Sentiment_Analysis_of_Product_Reviews/
 ## Application Screenshots
 
 ### Home Page
-![Home Page](home_page.png)
+![Home Page](home page.png)
 
 ### Single Review Prediction
 ![Single Review Prediction](single_review_prediction.png)
