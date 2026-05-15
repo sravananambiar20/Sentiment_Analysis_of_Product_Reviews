@@ -28,7 +28,7 @@ The project follows the complete data science lifecycle, including:
 
 ## Objectives
 
-- Classify product reviews into Positive, Neutral, and Negative sentiments
+
 - Perform comprehensive text preprocessing and exploratory data analysis
 - Build and compare traditional ML models with transformer-based deep learning models
 - Identify the best-performing model based on accuracy and F1-score
