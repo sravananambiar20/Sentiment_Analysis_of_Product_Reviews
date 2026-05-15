@@ -222,7 +222,7 @@ Sentiment_Analysis_of_Product_Reviews/
 ## Application Screenshots
 
 ### Home Page
-![Home Page](https://github.com/sravananambiar20/Sentiment_Analysis_of_Product_Reviews/blob/main/Screenshots/home.png?raw=true)
+![Home Page](Screenshots/home_page.png)
 
 ### Single Review Prediction
 ![Single Review Prediction](single_review_prediction.png)
