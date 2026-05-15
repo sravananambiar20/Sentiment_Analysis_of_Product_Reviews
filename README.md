@@ -14,7 +14,7 @@ Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.s
 |--------|--------|
 | Ardra Selin A G | |
 | Sravana Nambiar | |
-| Archana T | Completed model training and successfully generated the model.pkl file for prediction and deployment purposes. Added requirements.txt to manage project dependencies and ensure smooth project setup across different environments. |
+| Archana T | Completed model training and successfully generated the model.pkl file for prediction and deployment purposes. Added requirements.txt to manage project dependencies and ensure smooth project setup across different environments.|
 
 
 ---
