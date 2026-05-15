@@ -19,7 +19,7 @@ Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.s
 
 ---
 
-
+## Problem Statement
 
 Sentiment Analysis of product reviews is a critical Natural Language Processing (NLP) task that helps businesses understand customer opinions at scale. With the explosion of online reviews on platforms like Amazon, manually reading and categorizing feedback is impractical. This project aims to build a robust system that can automatically classify product reviews as **Positive**, **Neutral**, or **Negative** using machine learning and deep learning techniques.
 
