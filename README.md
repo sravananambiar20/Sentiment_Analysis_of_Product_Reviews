@@ -219,7 +219,7 @@ Sentiment_Analysis_of_Product_Reviews/
 ![Single Review Prediction](single_review_prediction.png)
 
 ### Model Performance
-![Model Performance](model_performance_and_comparison.png)
+![Model Performance](model_performance.png)
 
 ### Metrics Summary
 ![Metrics Summary](summary.png)
