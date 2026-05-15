@@ -2,11 +2,11 @@
 Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.streamlit.app/
 ## Team Members
 
-| Name | Reg No |
-| --- | --- |
+| Name | Reg No | Course |
+| --- | --- | ---|
 | Ardra Selin A G | 253006 |
 | Sravana Nambiar | 253212 |
-| Archana T | 253205 |
+| Archana T | 253205 | MSc. DATA SCIENCE AND BIO AI |
 
 ## 👥 Team
 
