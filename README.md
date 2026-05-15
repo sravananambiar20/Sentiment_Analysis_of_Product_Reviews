@@ -5,7 +5,7 @@
 | Name | Reg No |
 | --- | --- |
 | Ardra Selin A G | 253006 |
-| Sravana Nambiar |  |253212|
+| Sravana Nambiar |  |253212 |
 | Archana T | 253205 |
 
 ---
@@ -210,3 +210,19 @@ Sentiment_Analysis_of_Product_Reviews/
 ├── Requirements.txt
 └── .gitignore
 ```
+## Application Screenshots
+
+### Home Page
+![Home Page](home_page.png)
+
+### Single Review Prediction
+![Single Review Prediction](single_review_prediction.png)
+
+### Model Performance
+![Model Performance](model_performance_and_comparison.png)
+
+### Metrics Summary
+![Metrics Summary](summary.png)
+
+### About Page
+![About Page](about_the_app.png)
