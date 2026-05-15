@@ -234,8 +234,7 @@ Sentiment_Analysis_of_Product_Reviews/
 ![Metrics Summary](summary.png) 
 
 ### About Page
-
-![About Page](about_the_app.png)
+![Project Overview and Team Members Page](abouttheapp.png)
 
 
 ## Live Application
