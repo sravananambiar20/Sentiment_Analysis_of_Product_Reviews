@@ -1,5 +1,5 @@
 # Project Title: Sentiment Analysis of Product Reviews
-Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.streamlit.app/
+
 ## Team Members
 
 | Name | Reg No | Course |
