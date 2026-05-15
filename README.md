@@ -4,8 +4,8 @@ Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.s
 
 | Name | Reg No | Course |
 | --- | --- | ---|
-| Ardra Selin A G | 253006 |
-| Sravana Nambiar | 253212 |
+| Ardra Selin A G | 253006 | MSc. COMPUTER SCIENCE WITH SPECIALIZATION IN DATA ANALYTICS |
+| Sravana Nambiar | 253212 | MSc. DATA SCIENCE AND BIO AI |
 | Archana T | 253205 | MSc. DATA SCIENCE AND BIO AI |
 
 ## 👥 Team
