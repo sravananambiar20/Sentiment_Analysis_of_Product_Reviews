@@ -326,10 +326,11 @@ elif page == "📂 Batch Prediction":
 elif page == "📊 Model Performance":
     st.markdown("## 📊 Model Performance & Comparison")
 
-    # Placeholder accuracy data — update with real values after training
+
     model_names = ["TF-IDF + SVM", "TF-IDF + LR", "DistilBERT", "BERT"]
-    accuracies  = [0.0, 0.0, 0.0, 0.0]   # ← Replace with actual accuracy values
-    f1_scores   = [0.0, 0.0, 0.0, 0.0]   # ← Replace with actual F1 scores
+
+    accuracies  = [0.8397, 0.8415, 0.8450, 0.8370]
+f1_scores   = [0.81, 0.81, 0.82, 0.79]  
 
     st.info("⚠️ Results will be updated after model training is complete. Placeholder values shown.")
 
