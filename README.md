@@ -8,6 +8,13 @@ Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.s
 | Sravana Nambiar | 253212 |
 | Archana T | 253205 |
 
+## 👥 Team
+
+| Member | Role |
+|--------|--------|
+| Ardra Selin A G | |
+
+
 ---
 
 ## Problem Statement
