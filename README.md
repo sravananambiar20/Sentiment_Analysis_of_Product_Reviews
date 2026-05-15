@@ -13,6 +13,7 @@ Deployed app : https://sentimentanalysisofappuctreviews-ibsbwdzbzrapjcmypchsse.s
 | Member | Role |
 |--------|--------|
 | Ardra Selin A G | |
+| Sravana Nambiar | |
 
 
 ---
